@@ -68,7 +68,7 @@ Backend Developer | Licence student
 
 <summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=yekaranfil&theme=radical&show_icons=true" >
+<img src = "https://github-readme-stats.vercel.app/api?username=Orgk1ll&theme=radical&show_icons=true" >
 
 
 
@@ -76,5 +76,5 @@ Backend Developer | Licence student
 
 <summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yekaranfil&layout=compact" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Orgk1ll&layout=compact" >
 
