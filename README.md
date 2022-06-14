@@ -8,7 +8,7 @@ Full Stack Developer | 	Associate Degree
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 
-[<img height="45" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" align=left />][youtube]
+[<img height="45" width="45" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />][youtube]
 
 [<img height="35" width="45" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" align=left />][twitter]
 
