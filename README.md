@@ -9,8 +9,6 @@ Full Stack Developer | 	Associate Degree
 ### Reach out to me(Sosyal Medya Hesaplarım)
 <h3 align="left">Connect with me (Sosyal medya hesaplarım):</h3>
 <p align="left">
- 
-<img height="45" width="100" src="" align=left />
 <a href="https://www.youtube.com/channel/UCbjlviGpV-RHojcLNL0zraA" target="blank"><img align="center" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" alt="UCbjlviGpV-RHojcLNL0zraA" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/necmettinzivlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necmettinzivlak" height="30" width="40" /></a>
 <a href="https://instagram.com/necmettinz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necmettinz01" height="30" width="40" /></a>
