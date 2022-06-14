@@ -10,11 +10,11 @@ Full Stack Developer | 	Associate Degree
 <h3 align="left">Connect with me (Sosyal medya hesaplarım):</h3>
 <p align="left">
  
-<img height="45" width="100" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />
-<a href="https://twitter.com/darm4duman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darm4duman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yekaranfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekaranfil" height="30" width="40" /></a>
-<a href="https://instagram.com/emreekrnfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emreekrnfl" height="30" width="40" /></a>
-<a href="https://discord.gg/T5q2bcKQN5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="T5q2bcKQN5" height="30" width="40" /></a>
+<img height="45" width="100" src="" align=left />
+<a href="https://www.youtube.com/channel/UCbjlviGpV-RHojcLNL0zraA" target="blank"><img align="center" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" alt="UCbjlviGpV-RHojcLNL0zraA" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/necmettinzivlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necmettinzivlak" height="30" width="40" /></a>
+<a href="https://instagram.com/necmettinz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necmettinz01" height="30" width="40" /></a>
+<a href="https://discord.gg/gyM5nhd5Uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gyM5nhd5Uu" height="30" width="40" /></a>
 
 
 
