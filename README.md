@@ -7,15 +7,13 @@ Full Stack Developer | 	Associate Degree
 <font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
-
+<h3 align="left">Connect with me (Sosyal medya hesaplarım):</h3>
 [<img height="45" width="100" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />][youtube]
-
-[<img height="35" width="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align=left />][twitter]
-
-[<img height="35" width="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" align=left />][instagram]
-
-
-[<img height="35" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" align=left />][linkedin]
+<p align="left">
+<a href="https://twitter.com/darm4duman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darm4duman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yekaranfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekaranfil" height="30" width="40" /></a>
+<a href="https://instagram.com/emreekrnfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emreekrnfl" height="30" width="40" /></a>
+<a href="https://discord.gg/T5q2bcKQN5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="T5q2bcKQN5" height="30" width="40" /></a>
 
 
 
