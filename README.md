@@ -10,12 +10,12 @@ Full Stack Developer | 	Associate Degree
 
 [<img height="45" width="100" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />][youtube]
 
-[<img height="35" width="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align=left />][twitter]
+[<img height="35" width="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" align=left />][twitter]
 
-[<img height="35" width="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" align=left />][instagram]
+[<img height="35" width="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" align=left />][instagram]
 
 
-[<img height="35" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" align=left />][linkedin]
+[<img height="35" width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" align=left />][linkedin]
 
 
 
