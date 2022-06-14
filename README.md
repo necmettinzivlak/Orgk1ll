@@ -8,8 +8,9 @@ Full Stack Developer | 	Associate Degree
 `  </font>
 ### Reach out to me(Sosyal Medya Hesaplarım)
 <h3 align="left">Connect with me (Sosyal medya hesaplarım):</h3>
-[<img height="45" width="100" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />][youtube]
 <p align="left">
+ 
+<img height="45" width="100" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" align=left />
 <a href="https://twitter.com/darm4duman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darm4duman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yekaranfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yekaranfil" height="30" width="40" /></a>
 <a href="https://instagram.com/emreekrnfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emreekrnfl" height="30" width="40" /></a>
