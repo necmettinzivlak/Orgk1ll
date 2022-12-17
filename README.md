@@ -11,7 +11,7 @@ Full Stack Developer | 	Associate Degree
 <p align="left">
 <a href="https://www.youtube.com/channel/UCbjlviGpV-RHojcLNL0zraA" target="blank"><img align="center" src="https://raw.githubusercontent.com/victorferraz/youtube-playlist/main/media/img/youtube.png" alt="UCbjlviGpV-RHojcLNL0zraA" height="45" width="100" /></a>
 <a href="https://linkedin.com/in/necmettinzivlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="necmettinzivlak" height="30" width="40" /></a>
-<a href="https://instagram.com/necmettinz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necmettinz01" height="30" width="40" /></a>
+<a href="https://instagram.com/necmettinzivlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="necmettinz01" height="30" width="40" /></a>
 <a href="https://discord.gg/gyM5nhd5Uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gyM5nhd5Uu" height="30" width="40" /></a>
 
 
@@ -19,7 +19,7 @@ Full Stack Developer | 	Associate Degree
 
 [youtube]:https://www.youtube.com/channel/UCbjlviGpV-RHojcLNL0zraA
 [twitter]:https://twitter.com/orgk1ll
-[linkedin]:https://www.instagram.com/necmettinzivlak/?hl=tr
+[linkedin]:https://www.instagram.com/necmettinzivlak
 [instagram]:https://www.linkedin.com/in/necmettinzivlak/
 
 <br/>
