@@ -19,7 +19,7 @@ Full Stack Developer | 	Associate Degree
 
 [youtube]:https://www.youtube.com/channel/UCbjlviGpV-RHojcLNL0zraA
 [twitter]:https://twitter.com/orgk1ll
-[linkedin]:https://www.instagram.com/necmettinz01/?hl=tr
+[linkedin]:https://www.instagram.com/necmettinzivlak/?hl=tr
 [instagram]:https://www.linkedin.com/in/necmettinzivlak/
 
 <br/>
