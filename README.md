@@ -28,6 +28,7 @@ Full Stack Developer | 	Associate Degree
 
 ### Tech I use (Kullandığım teknolojiler)
 
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg](https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="35" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="25">
@@ -36,7 +37,6 @@ Full Stack Developer | 	Associate Degree
 <img align="left" src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" width="30" height="25">
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="30" height="25">
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="30" height="25">
@@ -63,12 +63,4 @@ Full Stack Developer | 	Associate Degree
 <summary> :bulb: My Github Stats(Github İstatistiklerim) </summary>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Orgk1ll&theme=radical&show_icons=true" >
-
-
-
-
-
-<summary> :bulb: Most Used Languages(En çok kullandığım diller) </summary>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Orgk1ll&layout=compact" >
 
