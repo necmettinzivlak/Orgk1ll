@@ -2,7 +2,7 @@
 
 Full Stack Developer | 	Associate Degree
 
- Hi, I'm Necmettin, a 2nd year student at the Department of Computer Technologies. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, Python, C++, SQl, and I'm improving myself in mobile programming. I'm learning Flutter. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
+ Hi, I'm Necmettin, a 2nd year student at the Department of Computer Technologies. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, JavaScript, Reactjs,React-native, SQl, and I'm improving myself in mobile programming. I'm learning Flutter. In the TUNEX team, which we established with 4 friends, we develop applications by helping and teamwork, and we do things that will improve ourselves.
 
 <font color="red">Asla yanlış yapmamış insan, yeni hiç birşey denememiştir. `Albert Einstein
 `  </font>
