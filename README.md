@@ -16,7 +16,9 @@ export function SoftwareDeveloper() {
     ],
   };
 const say_hi = (me) => {
-    console.log(`Hi, I'm Necmettin, a 2nd year student at the Department of Computer Technologies. I'm interested in programming and I'm improving myself in this direction. I have a good command of languages such as C#, JavaScript, Reactjs,React-native, SQl, and I'm improving myself in mobile & web programming.`);
+    console.log(`Hi, I'm Necmettin, a 2nd year student at the Department of Computer Technologies. 
+    I'm interested in programming and I'm improving myself in this direction. I have a good command of languages 
+    such as C#, JavaScript, Reactjs,React-native, SQl, and I'm improving myself in mobile & web programming.`);
   };
 
 
