@@ -28,7 +28,7 @@ const say_hi = (me) => {
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Orgk1ll&theme=darkhub" alt="Orgk1ll" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/darm4duman" target="blank"><img src="https://img.shields.io/twitter/follow/Orgk1ll?logo=twitter&style=for-the-badge" alt="Orgk1ll" /></a> </p>
+<p align="center"> <a href="https://twitter.com/Orgk1ll" target="blank"><img src="https://img.shields.io/twitter/follow/Orgk1ll?logo=twitter&style=for-the-badge" alt="Orgk1ll" /></a> </p>
 
 <h3 align="center">Connect with me (Sosyal medya hesaplarım):</h3>
 <p align="center">
