@@ -53,7 +53,9 @@ const say_hi = (me) => {
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> </p> 
-
+    
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Orgk1ll&theme=vision-friendly-dark&hide_border=1&show_icons=true&locale=en&layout=compact" alt="Orgk1ll" width="420" />
+    
 <p align="center"> <img  src="https://github-readme-stats.vercel.app/api?username=Orgk1ll&theme=radical&show_icons=true" alt="Orgk1ll" width="500" />
 
 <p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Orgk1ll&theme=dark&hide_border=1&count_private=true" alt="Orgk1ll"  width="500" /> 
