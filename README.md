@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm NECMETTIN ZIVLAK</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=necmettinzivlak&label=Profile%20views&color=0e75b6&style=flat" alt="necmettinzivlak" /> </p>
-
 - 🔭 I’m currently working on **Project Yerlem**
 
 - 🌱 I’m currently learning **React, Material-UI, TailwindCSS, Flutter, React Native**
@@ -38,7 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necmettinzivlak&show_icons=true&locale=en" alt="necmettinzivlak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=necmettinzivlak&" alt="necmettinzivlak" /></p>
 
 <h3 align="left">Trophies:</h3>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=necmettinzivlak&theme=onedark" alt="necmettinzivlak" /></p>
@@ -46,5 +43,3 @@
 <h3 align="left">GitHub Streak:</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=necmettinzivlak&theme=dark" alt="necmettinzivlak" /></p>
 
-<h3 align="left">Visitor Count:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=necmettinzivlak&label=Profile%20views&color=blue&style=plastic" alt="necmettinzivlak" /> </p>
