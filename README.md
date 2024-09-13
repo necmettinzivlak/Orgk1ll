@@ -34,12 +34,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=necmettinzivlak&show_icons=true&locale=en&layout=compact" alt="necmettinzivlak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necmettinzivlak&show_icons=true&locale=en" alt="necmettinzivlak" /></p>
-
 
 <h3 align="left">Trophies:</h3>
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=necmettinzivlak&theme=onedark" alt="necmettinzivlak" /></p>
 
-<h3 align="left">GitHub Streak:</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=necmettinzivlak&theme=dark" alt="necmettinzivlak" /></p>
 
