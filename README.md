@@ -31,7 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=necmettinzivlak&show_icons=true&locale=en&layout=compact" alt="necmettinzivlak" />
 </p>
 
-<h3 align="center">Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=necmettinzivlak&theme=onedark" alt="necmettinzivlak" />
-</p>
