@@ -6,7 +6,7 @@
 <p align="center">👯 I’m looking to collaborate on <strong>Open Source Projects</strong></p>
 <p align="center">💬 Ask me about <strong>React, JavaScript, CSS, TailwindCSS, Flutter, React Native</strong></p>
 <p align="center">📫 How to reach me: <strong>zivlaknecmettin@gmail.com</strong></p>
-<p align="center">⚡ Fun fact: <strong>I love to solve puzzles and explore new technologies!</strong></p>
+<p align="center">⚡ Fun fact: <strong>I love reading books, researching history, keeping up with technology, and swimming!</strong></p>
 
 <div align="center">
   <img height="300" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
