@@ -8,6 +8,10 @@
 <p align="center">📫 How to reach me: <strong>zivlaknecmettin@gmail.com</strong></p>
 <p align="center">⚡ Fun fact: <strong>I love to solve puzzles and explore new technologies!</strong></p>
 
+<div align="center">
+  <img height="300" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
+</div>
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://instagram.com/necmettinzivlak"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -38,11 +42,3 @@
 
 <div align="center">
 </div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
-</div>
-
-###
