@@ -13,8 +13,8 @@
   <a href="https://linkedin.com/in/necmettinzivlak" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://twitter.com/necmettinzivlak" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" height="30" />
+  <a href="https://x/necmettinzivlak" target="_blank">
+    <img align="center" src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" alt="Twitter" height="30" />
   </a>
 </p>
 
