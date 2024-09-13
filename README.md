@@ -36,3 +36,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=necmettinzivlak&show_icons=true&locale=en&layout=compact" alt="necmettinzivlak" />
 </p>
 
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
+</div>
+
+###
