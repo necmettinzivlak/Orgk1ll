@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/necmettinzivlak" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://x/necmettinzivlak" target="_blank">
+  <a href="https://x.com/necmettinzivlak" target="_blank">
     <img align="center" src="https://about.x.com/content/dam/about-twitter/x/large-x-logo.png.twimg.1920.png" alt="Twitter" height="30" />
   </a>
 </p>
