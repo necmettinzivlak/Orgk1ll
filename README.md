@@ -8,14 +8,17 @@
 <p align="center">📫 How to reach me: <strong>zivlaknecmettin@gmail.com</strong></p>
 <p align="center">⚡ Fun fact: <strong>I love to solve puzzles and explore new technologies!</strong></p>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/necmettinzivlak" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necmettinzivlak" height="30" width="40" style="fill:#0A66C2;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="30" />
   </a>
   <a href="https://twitter.com/necmettinzivlak" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="necmettinzivlak" height="30" width="40" style="fill:#1DA1F2;" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" height="30" />
   </a>
+</p>
+
+
 </p>
 
 <h3 align="center">Languages and Tools</h3>
