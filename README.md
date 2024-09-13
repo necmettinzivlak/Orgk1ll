@@ -10,8 +10,12 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/necmettinzivlak" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necmettinzivlak" height="30" width="40" /></a>
-<a href="https://twitter.com/necmettinzivlak" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="necmettinzivlak" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/necmettinzivlak" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="necmettinzivlak" height="30" width="40" style="fill:#0A66C2;" />
+  </a>
+  <a href="https://twitter.com/necmettinzivlak" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="necmettinzivlak" height="30" width="40" style="fill:#1DA1F2;" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
