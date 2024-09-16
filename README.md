@@ -37,5 +37,5 @@
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="necmettinzivlak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="necmettinzivlak" />
 </p>
