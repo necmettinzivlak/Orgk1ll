@@ -34,10 +34,3 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
-<h3 align="center">GitHub Stats</h3>
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="necmettinzivlak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)" alt="necmettinzivlak" width="400" />
-</div>
-
