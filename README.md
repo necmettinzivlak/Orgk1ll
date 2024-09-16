@@ -31,5 +31,5 @@
 </p>
 
 <div align="center">
-  <img width="100%" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
+  <img height="240px" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
 </div>
