@@ -8,9 +8,7 @@
 <p align="center">📫 How to reach me: <strong>zivlaknecmettin@gmail.com</strong></p>
 <p align="center">⚡ Fun fact: <strong>I love reading books, researching history, keeping up with technology, and swimming!</strong></p>
 
-<div align="center">
-  <img height="300" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
-</div>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -18,8 +16,6 @@
   <a href="https://linkedin.com/in/necmettinzivlak"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/necmettinzivlak"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"></a>
 </p>
-
-
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -34,3 +30,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<div align="center">
+  <img width="100%" src="https://pbs.twimg.com/media/FvLzCYlXwAAs5If?format=jpg&name=medium"  />
+</div>
