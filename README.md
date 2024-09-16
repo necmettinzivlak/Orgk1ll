@@ -36,6 +36,8 @@
 
 
 <h3 align="center">GitHub Stats</h3>
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="necmettinzivlak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=necmettinzivlak&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)" alt="necmettinzivlak" width="400" />
+</div>
+
